@@ -6,7 +6,7 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        'aiohttp==3.2.1',
+        'aiohttp==3.3.2',
         'json-rpc==1.11.0',
     ],
     author="Dmitry Kolyagin",
